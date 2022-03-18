@@ -1,4 +1,4 @@
-### (rsschool-cv)[]
+
 
 ### **Natasha Stalmakhova**
 
@@ -20,7 +20,8 @@ I am a purposeful , sociable person who easily finds a common language with new 
 
 
 #### **Code Example**
-```function findUniq(arr) {
+```
+function findUniq(arr) {
 
 let usualNumber;
 
