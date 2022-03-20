@@ -1,25 +1,28 @@
 
 
-### **Natasha Stalmakhova**
+## **Natasha Stalmakhova**
 
-#### **Contacts**
+## **Contacts**
 - Phone +375 (33) 33-407-93
 - E-mail natashastalmakhova@yandex.by
 - Telegram [pisciscrud](https://t.me/pisciscrud)
 - GitHub [pisciscrud](https://github.com/pisciscrud)
 
-#### **About me**
-I am a purposeful , sociable person who easily finds a common language with new people and is able to work in a team , ready to diligently study new material and develop in different fields
+## **About me**
+I am a purposeful and responsible sociable person. I can easily finds a common language with new people and is able to work in a team , ready to diligently study new material and develop in different fields
 
-#### **Skills**
+## **Skills**
 - HTML
 - CSS
 - JavaScript
 - С#
 - Git/GitHub
 
+## **Education:**
+Belarusian State Technological University, Faculty of Information Technology, Information Technology Software, Second year.
 
-#### **Code Example**
+
+## **Code Example**
 ```
 function findUniq(arr) {
 
@@ -38,5 +41,7 @@ return arr[i]
 
 
 
-#### **English**
+## **English**
  Intermidiate B1
+ 
+ 
